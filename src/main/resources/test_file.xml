@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+	<bean id="serviceimpl" class="HBernate.ioc.mapping.Service" />
+
+	<bean id="service" class="HBernate.ioc.mapping.IService">
+		<property name="serviceimpl" />
+	</bean>
+</beans>
