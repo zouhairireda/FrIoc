@@ -6,7 +6,7 @@
 	<artifactId>IoC-Framework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-<description>Dependency Injection Framework</description>
+<description>Dependency Injection Framework + Descritpion</description>
 
 
 	<name>IoC-Framework</name>
