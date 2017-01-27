@@ -6,6 +6,8 @@
 	<artifactId>IoC-Framework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
+<description>Dependency Injection Framework</description>
+
 
 	<name>IoC-Framework</name>
 	<url>http://maven.apache.org</url>
