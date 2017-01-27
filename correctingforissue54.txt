@@ -1,1 +1,4 @@
 first correcting : TDD in new unitary function
+
+
+second correcting: add comments to illustrate our functions
