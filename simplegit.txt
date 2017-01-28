@@ -1,1 +1,3 @@
 add ls-tree function recursive
+
+add ls-files
