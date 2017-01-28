@@ -1,3 +1,5 @@
 add ls-tree function recursive
 
 add ls-files
+
+add new fonction in fonctionBee
