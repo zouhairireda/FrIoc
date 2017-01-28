@@ -3,3 +3,5 @@ Limite for log function
 add another fonctionA
 
 add details by Jessica
+
+add new fonction in fonctionBee
