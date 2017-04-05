@@ -4,6 +4,6 @@
 	<bean id="serviceimpl" class="HBernate.ioc.mapping.Service" />
 
 	<bean id="service" class="HBernate.ioc.mapping.IService">
-		<property name="serviceimpl" />
+		<property name="serviceimpl" /> 
 	</bean>
 </beans>
